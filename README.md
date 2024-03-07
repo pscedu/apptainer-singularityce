@@ -4,7 +4,7 @@
 ![Stars](https://img.shields.io/github/stars/pscedu/apptainer-singularityce)
 ![License](https://img.shields.io/github/license/pscedu/apptainer-singularityce)
 
-<img src="https://sylabs.io/wp-content/uploads/2022/10/SingularityLogos_CE.png" width="50%" />
+<img src="https://sylabs.io/wp-content/uploads/2022/10/SingularityLogos_CE.png" width="25%" />
 Apptainer definition file that installs SingularityCE inside a container.
 
 ## Building the image using the recipe
